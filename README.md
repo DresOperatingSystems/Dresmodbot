@@ -53,7 +53,7 @@ Optionally you can create a venv env then run the bot with nohup & to successful
 
 Thank you for checking this project out for any queries please contact the DresOS team below via telegram or email
 
-Telegram: https://t.me/dresossupport
+Telegram: https://t.me/dresossupport              
 Email: DresOS@tutamail.com
 
 Thank you 
